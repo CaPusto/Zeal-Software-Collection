@@ -199,6 +199,21 @@ dependencies:
       - zsol
       - solitaire
 
+  - id: CaPusto/zealmine
+    repo: https://github.com/CaPusto/zealmine.git
+    metadata:
+      screenshot: https://raw.githubusercontent.com/CaPusto/zealmine/main/docs/screenshot_title.png
+      name: zealmine
+      category:
+        - game
+      description: Remake mineswepper game for Zeal 8-bit Computer
+      author:
+        name: CaPusto
+        link: https://github.com/CaPusto
+    aliases:
+      - zealmine
+      - mineswepper
+
   # Demos
   - id: zoul0813/zeal-boing
     repo: https://github.com/zoul0813/zeal-boing.git
